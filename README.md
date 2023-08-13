@@ -19,7 +19,12 @@ It's possible to monitor your audience,check their info (only authorized users).
 
 
 ### Run
+
+Clone repository:
+
     git clone https://github.com/BillXr/newsletter_mail_server.git
+
+Make sure you have node installed:
     
     npm install
     

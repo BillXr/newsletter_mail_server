@@ -27,7 +27,6 @@ Clone repository:
 Make sure you have node installed:
     
     npm install
-    
     node app.js
 
 

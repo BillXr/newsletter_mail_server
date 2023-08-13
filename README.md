@@ -22,11 +22,12 @@ It's possible to monitor your audience,check their info (only authorized users).
 
 Clone repository:
 
-    git clone https://github.com/BillXr/newsletter_mail_server.git
+    $ git clone https://github.com/BillXr/newsletter_mail_server.git
+    $ cd newsletter_mail_server
 
 Make sure you have node installed:
     
-    npm install
-    node app.js
+    $ npm install # Install Node modules listed in ./package.json
+    $ node app.js # Compile and launch on port 3000
 
 

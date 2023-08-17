@@ -20,13 +20,14 @@ It's possible to monitor your audience,check their info (only authorized users).
 
 ### Run
 
-Clone repository:
+As project was dockerized,simply execute run.sh script to call docker-compose file to create container and image.
+
+        ./run.sh
+
+Alternatively:
 
     $ git clone https://github.com/BillXr/newsletter_mail_server.git
     $ cd newsletter_mail_server
-
-Make sure you have node installed:
-    
     $ npm install # Install Node modules listed in ./package.json
     $ node app.js # Compile and launch on port 3000
 
